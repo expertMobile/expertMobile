@@ -1,44 +1,40 @@
+#### Hey there 👋 Welcome :heartpulse:😊:heartpulse: :nine::nine: (*╹▽╹*) 
+###### :four_leaf_clover: *Cause I've got faith of the heart, I'm going where my heart will take me!* :four_leaf_clover:
+********************************
+### SIA SOFT
+<img src="https://github-readme-stats.vercel.app/api?username=expertMobile&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" /> 
 
-### Hi there, welcome to my GitHub Page 👋
 
-I'm a full-stack web & mobile developer. I love to build pages and learn more stuff on my free time and non-free time also.
----
-### What I do?
-<p>
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
-  <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge" />
-  <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
-  <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Nodemon-76D04B?logo=nodemon&logoColor=white&style=for-the-badge" alt="Nodemon" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="mongodb"/>
-  <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=for-the-badge" alt="jest"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge" alt="mongodb"/>
-  <img src="https://img.shields.io/badge/Language-%20Swift-DB4E02.svg?style=for-the-badge&logo=swift"/>
+- 🌱 Full Stack Web && Mobile Developer 🌱
+- <p style="color:pink">🍏 Personal Blog :ledger: :</p> :sparkling_heart: https://github.com/expertMobile :sparkling_heart:
+--------------
 
----
- 🔭 I’m currently working on <a href=""> iOS Dating Application and Car Rental Application </a>
----
- 🌱 I’m currently learning postgresql, and django to improve more on my server-side stack.
----
- 👯 I’m open for collaboration
----
- 📫 How to reach me: `perfectsoft2019 at gmail dot com`
----
- 😄 Pronouns: he/him
----
+### Technologies && Tools:
+:shell:  :dizzy: *I am super passionate for new technologies!*  :dizzy: :shell:
+<ul>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSoXS0EJ92SvZVt4R4nT_68NO8Nc8aovBj2iQ&usqp=CAU" alt=”Rails“ width="39" height="39">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ2s7g5rKVCRjxH72WcRB-ZESXP1AoU4fFZCA&usqp=CAU" alt=”React“ width="39" height="39">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRKREpHf4ZanJaEvnJT3dLrTKDTgZ8A5YhZug&usqp=CAU" alt=”Android“ width="39" height="39">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS93aSLf-QNrKGFotNIFcMXChCBRXCzymQChg&usqp=CAU" alt=”Git“ width="39" height="39">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR9x2WNatiI59YTTrTKnpgPH0yIC8CF9xWwhg&usqp=CAU" alt=”PostgreSQL“ width="39" height="39">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRZRG-rP0OJa3v52XemHiYXQqQOvTV3zDnyeA&usqp=CAU" alt=”WeChat minni Program“ width="39" height="39">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcROG8j7es3DqRFFFY1vfydRcwFccby0WaqPEA&usqp=CAU" alt=”Postman“ width="39" height="39">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQTHazThKtmj9LowIhhurCFCv8zwBUznGbMsA&usqp=CAU" alt=”Bootstrap“ width="39" height="39">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRyuysCVANB23xetA8P-oa2AK1Uo6yMEpcNGQ&usqp=CAU" alt=”HTML“ width="39" height="39">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTBuUI-msGueh-e5_zkA4aZfkpn-3cfrh1Euw&usqp=CAU" alt=”CSS“ width="39" height="39">
+</ul>
 
-### GitHub Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=expertMobile&count_private=true&title_color=FD9047&text_color=0C2233&custom_title=SIA+SOFT's+GitHub+Stats&show_icons=true" 
-/>
+<img src="https://github-profile-trophy.vercel.app/?username=expertMobile&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=expertMobile&layout=compacte&title_color=FD9047&text_color=0C2233&icon_color=FD9047&bg_color=0C223&custom_title=SIA+SOFT's+GitHub+Stats&show_icons=true" 
-/>
+
+
+
+
+
 
 <!--
-**craniatech2021/craniatech2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**NicoleQueen/NicoleQueen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

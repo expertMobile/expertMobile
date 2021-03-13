@@ -17,7 +17,6 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRKREpHf4ZanJaEvnJT3dLrTKDTgZ8A5YhZug&usqp=CAU" alt=”Android“ width="39" height="39">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS93aSLf-QNrKGFotNIFcMXChCBRXCzymQChg&usqp=CAU" alt=”Git“ width="39" height="39">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR9x2WNatiI59YTTrTKnpgPH0yIC8CF9xWwhg&usqp=CAU" alt=”PostgreSQL“ width="39" height="39">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRZRG-rP0OJa3v52XemHiYXQqQOvTV3zDnyeA&usqp=CAU" alt=”WeChat minni Program“ width="39" height="39">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcROG8j7es3DqRFFFY1vfydRcwFccby0WaqPEA&usqp=CAU" alt=”Postman“ width="39" height="39">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQTHazThKtmj9LowIhhurCFCv8zwBUznGbMsA&usqp=CAU" alt=”Bootstrap“ width="39" height="39">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRyuysCVANB23xetA8P-oa2AK1Uo6yMEpcNGQ&usqp=CAU" alt=”HTML“ width="39" height="39">

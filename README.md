@@ -1,4 +1,4 @@
-#### Hey there 👋 Welcome :heartpulse:😊:heartpulse: :nine::nine: (*╹▽╹*) 
+#### Hey there 👋 Welcome
 ###### :four_leaf_clover: *Cause I've got faith of the heart, I'm going where my heart will take me!* :four_leaf_clover:
 ********************************
 ### SIA SOFT

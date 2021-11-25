@@ -2,7 +2,7 @@
 ###### :four_leaf_clover: *Cause I've got faith of the heart, I'm going where my heart will take me!* :four_leaf_clover:
 ********************************
 ### Ninja Software
-<img src="https://github-readme-stats.vercel.app/api?username=expertMobile&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" /> 
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=expertMobile&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />  -->
 
 
 - 🌱 Mobile App Developer🌱

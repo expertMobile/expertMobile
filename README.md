@@ -1,7 +1,7 @@
 #### Hey there 👋 Welcome
 ###### :four_leaf_clover: *Cause I've got faith of the heart, I'm going where my heart will take me!* :four_leaf_clover:
 ********************************
-### Ninja Software
+### ⚡ Ninja Software
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=expertMobile&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />  -->
 
 
@@ -9,7 +9,7 @@
 - <p style="color:pink">🍏 Personal Blog :ledger: :</p> :sparkling_heart: https://github.com/expertMobile :sparkling_heart:
 --------------
 
-### Technologies && Tools:
+### ⚡ Technologies && Tools:
 :shell:  :dizzy: *I am super passionate for new technologies!*  :dizzy: :shell:
 <ul>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSoXS0EJ92SvZVt4R4nT_68NO8Nc8aovBj2iQ&usqp=CAU" alt=”Rails“ width="39" height="39">
@@ -26,10 +26,11 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=expertMobile&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
 
+<h3> ⚡ GitHub Stats</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=expertMobile&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" alt="expertMobile" /></p>
 
-
-
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=expertMobile&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919&locale=en" alt="expertMobile" height="195px"/></p>
+<br>
 
 
 <!--

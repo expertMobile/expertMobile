@@ -26,11 +26,13 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=expertMobile&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
 
+<!--
 <h3> ⚡ GitHub Stats</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=expertMobile&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" alt="expertMobile" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=expertMobile&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919&locale=en" alt="expertMobile" height="195px"/></p>
 <br>
+-->
 
 
 <!--

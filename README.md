@@ -1,51 +1,24 @@
-#### Hey there 👋 Welcome
-###### :four_leaf_clover: *Cause I've got faith of the heart, I'm going where my heart will take me!* :four_leaf_clover:
-********************************
-### ⚡ Ninja Software
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=expertMobile&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />  -->
+<h1 align="center"> <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"> Hi there, I'm a Senior Mobile App Developer. </h1>
 
+<h3 align="center">Love to Design and Develop Software Products</h3> 
 
-- 🌱 Mobile App Developer🌱
-- <p style="color:pink">🍏 Personal Blog :ledger: :</p> :sparkling_heart: https://github.com/expertMobile :sparkling_heart:
---------------
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=expertMobile&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="expertMobile" /></p>
 
-### ⚡ Technologies && Tools:
-:shell:  :dizzy: *I am super passionate for new technologies!*  :dizzy: :shell:
-<ul>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSoXS0EJ92SvZVt4R4nT_68NO8Nc8aovBj2iQ&usqp=CAU" alt=”Rails“ width="39" height="39">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ2s7g5rKVCRjxH72WcRB-ZESXP1AoU4fFZCA&usqp=CAU" alt=”React“ width="39" height="39">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRKREpHf4ZanJaEvnJT3dLrTKDTgZ8A5YhZug&usqp=CAU" alt=”Android“ width="39" height="39">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS93aSLf-QNrKGFotNIFcMXChCBRXCzymQChg&usqp=CAU" alt=”Git“ width="39" height="39">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR9x2WNatiI59YTTrTKnpgPH0yIC8CF9xWwhg&usqp=CAU" alt=”PostgreSQL“ width="39" height="39">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcROG8j7es3DqRFFFY1vfydRcwFccby0WaqPEA&usqp=CAU" alt=”Postman“ width="39" height="39">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQTHazThKtmj9LowIhhurCFCv8zwBUznGbMsA&usqp=CAU" alt=”Bootstrap“ width="39" height="39">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRyuysCVANB23xetA8P-oa2AK1Uo6yMEpcNGQ&usqp=CAU" alt=”HTML“ width="39" height="39">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTBuUI-msGueh-e5_zkA4aZfkpn-3cfrh1Euw&usqp=CAU" alt=”CSS“ width="39" height="39">
-</ul>
+<h3 align="center">See My Designs and Projects:</h3>
+<p align="center">
+<a href="https://www.linkedin.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="linkedin" height="30" width="30" /></a>
+<a href="https://twitter.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="twitter" height="30" width="30" /></a>
+<a href="https://www.youtube.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" alt="youtube" height="30" width="30" /></a>
+<a href="https://www.instagram.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" alt="instagram" height="30" width="30" /></a>
+<a href="https://dribbble.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/dribbble/dribbble-icon.svg" alt="dribbble" height="30" width="30" /></a>
+<a href="https://www.behance.net" target="blank"><img align="center" src="https://seeklogo.com/images/B/behance-logo-1373E40919-seeklogo.com.png" alt="behance" height="30" width="30" /></a>
 
+</p>
 
-<!-- <img src="https://github-profile-trophy.vercel.app/?username=expertMobile&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" /> -->
+<h3 align="center">Languages and Tools:</h3> 
 
-<!--
-<h3> ⚡ GitHub Stats</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=expertMobile&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" alt="expertMobile" /></p>
+<p align="center"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="30" height="30"/> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="30" height="30"/> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="30"/> <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="swift" width="30" height="30"/> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="30" height="30"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> <img src="https://www.vectorlogo.zone/logos/android/android-official.svg" alt="android" width="30" height="30"/> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="30" height="30"/> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="30" height="30"/> <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="raspberrypi" width="30" height="30"/> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="30" height="30"/> <img src="https://www.vectorlogo.zone/logos/hive/hive-icon.svg" alt="hive" width="30" height="30"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=expertMobile&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919&locale=en" alt="expertMobile" height="195px"/></p>
 <br>
--->
-
-
-<!--
-**NicoleQueen/NicoleQueen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=expertMobile&hide_border=true&count_private=true&show_icons=true&theme=radical&bg_color=0D1117" alt="expertMobile" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=expertMobile&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical&bg_color=0D1117" alt="expertMobile" align = "center"/></p>

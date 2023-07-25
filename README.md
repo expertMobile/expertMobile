@@ -2,7 +2,7 @@
 <h1 align="center"> <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"> Hi there, I'm a Senior Mobile App Developer. </h1>
 
 <h3 align="center">Love to Design and Develop Software Products</h3>
-
+<p align="left"><img src="https://komarev.com/ghpvc/?username=expertMobile&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="expertMobile" /></p>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=expertMobile&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="expertMobile" /></p>
 
 <!-- <h3 align="center">See My Designs and Projects:</h3>
@@ -13,9 +13,6 @@
 <a href="https://www.instagram.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" alt="instagram" height="30" width="30" /></a>
 <a href="https://dribbble.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/dribbble/dribbble-icon.svg" alt="dribbble" height="30" width="30" /></a>
 <a href="https://www.behance.net" target="blank"><img align="center" src="https://seeklogo.com/images/B/behance-logo-1373E40919-seeklogo.com.png" alt="behance" height="30" width="30" /></a> -->
-</p>
-<p align="center">
-![Visitor Count](https://profile-counter.glitch.me/{expertMobile}/count.svg)
 </p>
 
 <h3 align="center">Languages and Tools:</h3> 

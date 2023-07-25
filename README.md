@@ -25,11 +25,11 @@
 <img height="180em" src="https://github-readme-stats-p1rh.vercel.app/api/top-langs?username=expertMobile&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical&bg_color=0D1117" alt="expertMobile" align = "center"/></p>
 
 <br>
-<summary><b>🔎 Github Profile Details</b></summary>
+<summary align="center"><b>🔎 Github Profile Details</b></summary>
 <br>
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=expertMobile&theme=github_dark" alt="expertMobile" /></p>
 <br>
-<summary><b>🏆 Github Achievements</b></summary>
+<summary align="center"><b>🏆 Github Achievements</b></summary>
 <br>
 <p align="center"> <a href="https://github.com/664235822"><img src="https://github-profile-trophy.vercel.app/?username=expertMobile&margin-w=5&theme=radical" alt="expertMobile" /></a> </p>
 

@@ -27,11 +27,10 @@
 <br>
 <summary><b>🔎 Github Profile Details</b></summary>
 <br>
-<p align="left"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=expertMobile&theme=github_dark" alt="expertMobile" align = "center"/></p>
-
+<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=expertMobile&theme=github_dark" alt="expertMobile" /></p>
 <br>
 <summary><b>🏆 Github Achievements</b></summary>
 <br>
-<p align="left"> <a href="https://github.com/664235822"><img src="https://github-profile-trophy.vercel.app/?username=expertMobile&margin-w=5&theme=radical" alt="expertMobile" /></a> </p>
+<p align="center"> <a href="https://github.com/664235822"><img src="https://github-profile-trophy.vercel.app/?username=expertMobile&margin-w=5&theme=radical" alt="expertMobile" /></a> </p>
 
 ![Visitor Count](https://profile-counter.glitch.me/{expertMobile}/count.svg)

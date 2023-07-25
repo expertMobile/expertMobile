@@ -25,9 +25,7 @@
 
 <br>
 <h3 align="center"><b>🔎 Github Profile Details</b></h3>
-<br>
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=expertMobile&theme=github_dark" alt="expertMobile" /></p>
 <br>
 <h3 align="center"><b>🏆 Github Achievements</b></h3>
-<br>
 <p align="center"> <a href="https://github.com/expertMobile"><img src="https://github-profile-trophy.vercel.app/?username=expertMobile&margin-w=5&theme=radical" alt="expertMobile" /></a> </p>

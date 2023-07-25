@@ -2,6 +2,7 @@
 <h1 align="center"> <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"> Hi there, I'm a Senior Mobile App Developer. </h1>
 
 <h3 align="center">Love to Design and Develop Software Products</h3> 
+![Visitor Count](https://profile-counter.glitch.me/{expertMobile}/count.svg)
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=expertMobile&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="expertMobile" /></p>
 
@@ -29,8 +30,6 @@
 <br>
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=expertMobile&theme=github_dark" alt="expertMobile" /></p>
 <br>
-<summary align="center"><b>🏆 Github Achievements</b></summary>
+<h3 align="center"><b>🏆 Github Achievements</b></h3>
 <br>
 <p align="center"> <a href="https://github.com/664235822"><img src="https://github-profile-trophy.vercel.app/?username=expertMobile&margin-w=5&theme=radical" alt="expertMobile" /></a> </p>
-
-![Visitor Count](https://profile-counter.glitch.me/{expertMobile}/count.svg)

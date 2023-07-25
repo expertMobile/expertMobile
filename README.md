@@ -13,6 +13,8 @@
 <a href="https://www.instagram.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" alt="instagram" height="30" width="30" /></a>
 <a href="https://dribbble.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/dribbble/dribbble-icon.svg" alt="dribbble" height="30" width="30" /></a>
 <a href="https://www.behance.net" target="blank"><img align="center" src="https://seeklogo.com/images/B/behance-logo-1373E40919-seeklogo.com.png" alt="behance" height="30" width="30" /></a> -->
+</p>
+<p align="center">
 ![Visitor Count](https://profile-counter.glitch.me/{expertMobile}/count.svg)
 </p>
 

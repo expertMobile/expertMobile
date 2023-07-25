@@ -25,7 +25,7 @@
 <img height="180em" src="https://github-readme-stats-p1rh.vercel.app/api/top-langs?username=expertMobile&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical&bg_color=0D1117" alt="expertMobile" align = "center"/></p>
 
 <br>
-<summary align="center"><b>🔎 Github Profile Details</b></summary>
+<h3 align="center"><b>🔎 Github Profile Details</b></h3>
 <br>
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=expertMobile&theme=github_dark" alt="expertMobile" /></p>
 <br>

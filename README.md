@@ -29,6 +29,6 @@
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=expertMobile&theme=github_dark" alt="expertMobile" /></p>
 
 <h3 align="center"><b>🏆 Github Achievements</b></h3>
-<p align="center"> <a href="https://github.com/expertMobile"><img src="https://github-profile-trophy.vercel.app/?username=expertMobile&margin-w=5&theme=radical" alt="expertMobile" /></a> </p>
+<p align="center"> <a href="https://github.com/expertMobile"><img src="https://github-profile-trophy.vercel.app/?username=expertMobile&margin-w=5&theme=radical&row=1&column=7" alt="expertMobile" /></a> </p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7F52FF&height=120&section=footer"/>

@@ -21,6 +21,11 @@
 
 <p align="center"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="30" height="30"/> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="30" height="30"/> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="30"/> <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="swift" width="30" height="30"/> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="30" height="30"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> <img src="https://www.vectorlogo.zone/logos/android/android-official.svg" alt="android" width="30" height="30"/> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="30" height="30"/> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="30" height="30"/> <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="raspberrypi" width="30" height="30"/> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="30" height="30"/> <img src="https://www.vectorlogo.zone/logos/hive/hive-icon.svg" alt="hive" width="30" height="30"/></p>
 
+--------------------------
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=expertMobile&theme=blue_green) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=expertMobile&hide=Html&theme=blue_green) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=expertMobile&theme=blue_green) |
+| :-: | :-: | :-: |
+
 <br>
 <p align="center"><img height="180em" src="https://github-readme-stats-p1rh.vercel.app/api?username=expertMobile&hide_border=true&count_private=true&show_icons=true&theme=radical&bg_color=0D1117" alt="expertMobile" align = "center"/>
 <img height="180em" src="https://github-readme-stats-p1rh.vercel.app/api/top-langs?username=expertMobile&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical&bg_color=0D1117" alt="expertMobile" align = "center"/></p>

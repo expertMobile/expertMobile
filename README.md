@@ -25,9 +25,10 @@
 <p align="center"><img height="180em" src="https://github-readme-stats-p1rh.vercel.app/api?username=expertMobile&hide_border=true&count_private=true&show_icons=true&theme=radical&bg_color=0D1117" alt="expertMobile" align = "center"/>
 <img height="180em" src="https://github-readme-stats-p1rh.vercel.app/api/top-langs?username=expertMobile&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical&bg_color=0D1117" alt="expertMobile" align = "center"/></p>
 
-<h3 align="center"><b>🔎 Github Profile Details</b></h3>
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=expertMobile&theme=blue_green) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=expertMobile&hide=Html&theme=blue_green) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=expertMobile&theme=blue_green) |
 | :-: | :-: | :-: |
+
+<h3 align="center"><b>🔎 Github Profile Details</b></h3>
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=expertMobile&theme=github_dark" alt="expertMobile" /></p>
 
 <h3 align="center"><b>🏆 Github Achievements</b></h3>

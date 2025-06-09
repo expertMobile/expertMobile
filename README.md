@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7F52FF&height=120&section=header"/>
 
 <!-- ## <img height="60" width="60" src="https://github.com/mastercodingbear/mastercodingbear/blob/main/img/hello.gif" /> Build Your Dream -->
-<h1 align="center"> <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"> Hi there, I'm a Senior Mobile App Developer. </h1>
+<h1 align="center"> <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"> Hi there, I'm a Senior Software Developer. </h1>
 
 <h3 align="center">Love to Design and Develop Software Products</h3>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=expertMobile&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="expertMobile" /></p>
